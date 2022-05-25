@@ -1,5 +1,5 @@
 # Predictive-Modelling
-build a predictive model using machine learning algorithms to predict the expected number of rentals in a given day
+Building a predictive model using machine learning algorithms to predict the expected number of bike rentals in a given day
 
 **Tasks Division for Simplicity: **
 1. Import the data from daily-bike-share.csv and view the first few rows.
